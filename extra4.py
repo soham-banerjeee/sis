@@ -1,2 +1,2 @@
-print ('abhishek')
-print ('ledu')
+print ('abhishek');
+print ('ledu');
